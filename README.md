@@ -1,4 +1,4 @@
-Algorithmic Trading Strategy - Gold
+Algorithmic Trading Bot - Gold
 Project Description
 This project is a Python-based algorithmic trading bot designed to analyze and backtest a strategy on the gold commodity market (GC=F).
 
