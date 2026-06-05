@@ -1,5 +1,3 @@
-Algorithmic Trading Bot - Gold
-Project Description
 This project is a Python-based algorithmic trading bot designed to analyze and backtest a strategy on the gold commodity market (GC=F).
 
 It implements a Dual Moving Average Crossover (MAC) strategy to identify market trends and generate trading signals. The system uses the backtrader library to simulate trades against historical data from yfinance.
@@ -29,7 +27,8 @@ Visualization: Generates a candlestick chart using matplotlib to visualize the p
 
 Dependency Management: Includes a requirements.txt file for a clean and easy setup in a Python virtual environment.
 
-Technology Stack
+Technology Stack:
+
 Python 3.x
 
 backtrader
